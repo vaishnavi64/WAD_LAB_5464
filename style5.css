@@ -1,0 +1,41 @@
+h3{
+	margin-top: 100px;
+	margin-right: 150px;
+	margin-bottom: 100px;
+	margin-left: 150px;
+	border: 50px solid aquamarine;
+	padding: 50px;
+}
+p{
+	font-size:18px;   
+    font-weight:italic;
+    color:seagreen;        
+    border: dotted 10px black;
+    padding: 20px;
+    margin: 100px; 
+}
+h2{
+	border: double 10px black;
+	background-color:lightblue;
+    padding: 20px;
+    margin: 100px; 
+}
+h4{
+	content: left;
+	background-color: lightskyblue;
+
+}
+h5{
+	content: right;
+	background-image: "bg.jpg";
+	background-repeat: 5;
+}
+h6{
+	content: center;
+}
+p{
+	background-image: url("../bg.jpg");
+	background-repeat: no-repeat;
+  	background-attachment: scroll ;
+  	background-position: right;
+}

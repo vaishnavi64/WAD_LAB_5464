@@ -1,0 +1,26 @@
+h1{
+	color : plum;
+	font : times new roman;
+}
+h4{
+	color : firebrick;
+	text-transform: uppercase;
+	font : italic;
+}
+h5{
+	color : red;
+	text-transform: uppercase;
+	font : bold;
+}
+td{
+	color : green;
+	font : italic;
+}
+u{
+	color : lightcoral;
+	font : bold;
+}
+th{
+	color:goldenrod;
+	font-family: cursive;
+}
